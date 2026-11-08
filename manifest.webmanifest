@@ -1,0 +1,12 @@
+{
+ "name": "Retro Ranked 2025 — 24 бойца",
+ "short_name": "Retro Ranked",
+ "description": "Неофициальная фан-игра: ранговый бой 3×3, 24 персонажа, драфт и классы",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "landscape",
+ "background_color": "#0c1028",
+ "theme_color": "#13245c",
+ "icons": [{"src":"./icon.png","sizes":"512x512","type":"image/png"}]
+}
